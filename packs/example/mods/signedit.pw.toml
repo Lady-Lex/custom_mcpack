@@ -1,0 +1,13 @@
+name = "Sign Edit"
+filename = "signedit-neoforge-0.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7xDMxha/versions/69aMFzA6/signedit-neoforge-0.1.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5cddc21b2ad66d26a87a0af4cf331901e57a4dc4b8bbe2b49da966574c25404fb7dd161f12f25d05de8794337e592331dfd53105f09148e5c56d53889d98b948"
+
+[update]
+[update.modrinth]
+mod-id = "c7xDMxha"
+version = "69aMFzA6"

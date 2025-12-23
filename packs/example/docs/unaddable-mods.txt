@@ -1,0 +1,12 @@
+实在加不进去的 Mod 记录（1.21.1-neoforge-v1）
+
+只记录这个版本实例里“确实加不进去 / 暂不纳入 packwiz 管理”的条目。
+填写格式说明见仓库根目录：UNADDABLE-MODS-TEMPLATE.md
+
+---
+
+1) Smooth Scrolling Reforged
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-reforged
+
+2) Enchantment Sort
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/enchantment-sort/files/all?page=1&pageSize=20&showAlphaFiles=hide

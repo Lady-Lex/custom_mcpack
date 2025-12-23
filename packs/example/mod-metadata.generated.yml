@@ -1,0 +1,1220 @@
+ambientsounds:
+  title: AmbientSounds
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: fM515JnW
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+amendments:
+  title: Amendments
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: 6iTJugQR
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+appleskin:
+  title: AppleSkin
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: EsAfCjCV
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+architectury-api:
+  title: "Architectury API"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: lhGA9TYQ
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+balm:
+  title: Balm
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: MBAkmtvl
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+better-advancements:
+  title: "Better Advancements"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: Q2OqKxDG
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+better-ping-display:
+  title: "Better Ping Display [Forge/NeoForge]"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: ZvaHbwoZ
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+better-stats:
+  title: "Better Statistics Screen"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: n6PXGAoM
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+boat-item-view:
+  title: "Boat Item View"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: BdKIyOLe
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+bookshelf-lib:
+  title: Bookshelf
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: uy4Cnpcm
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+caelus:
+  title: "Caelus API"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: 40FYwb4z
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+camera-mod:
+  title: "Camera Mod"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: oiuNWinn
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+chat-heads:
+  title: "Chat Heads"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: Wb5oqrBJ
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+chat-impressive-animation:
+  title: "Chat Impressive Animation"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: DnL1AGAI
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+chatimage:
+  title: ChatImage
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: zhVN1dvW
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+clickthrough+:
+  title: "ClickThrough Plus"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: fJi8nm80
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+cloth-config:
+  title: "Cloth Config API"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: 9s6osm5g
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+clumps:
+  title: Clumps
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: Wnxd13zP
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+collective:
+  title: Collective
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: e0M1UDsY
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+connector:
+  title: "Sinytra Connector"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: u58R1TMW
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+continuity:
+  title: Continuity
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: 1IjD5062
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+controlling:
+  title: Controlling
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: xv94TkTM
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+coroutil:
+  title: CoroUtil
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: rLLJ1OZM
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+create:
+  title: Create
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: LNytGWDc
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+creativecore:
+  title: CreativeCore
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: OsZiaDHq
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+curios:
+  title: "Curios API"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: vvuO3ImH
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+deimos:
+  title: Deimos
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: WQaxNzFg
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+distanthorizons:
+  title: "Distant Horizons"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: uCdwusMi
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+durability-tooltip:
+  title: "Durability Tooltip"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: smUP7V3r
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+easy-anvils:
+  title: "Easy Anvils"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: OZBR5JT5
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+easy-magic:
+  title: "Easy Magic"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: 9hx3AbJM
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+eating-animations:
+  title: "Eating Animations"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: X8CISwXp
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+elytra-slot:
+  title: "Elytra Slot"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: mSQF1NpT
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+emi:
+  title: EMI
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: fRiHVvU7
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+emi-enchanting:
+  title: "EMI Enchanting"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: wbWoo11W
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+emi-loot:
+  title: "EMI Loot"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: qbbO7Jns
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+emi-ores:
+  title: "EMI Ores"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: sG4TqDb8
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+emi-professions-(emip):
+  title: "EMI professions (EMIP)"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: LGVihYcz
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+emiffect:
+  title: EMIffect
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: 705gWllI
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+emixx:
+  title: EMI++
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: AWMWYMwC
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+enchantment-descriptions:
+  title: "Enchantment Descriptions"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: UVtY3ZAC
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+entity-model-features:
+  title: "[EMF] Entity Model Features"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: 4I1XuqiY
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+entityculling:
+  title: "Entity Culling"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: NNAgCjsB
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+entitytexturefeatures:
+  title: "[ETF] Entity Texture Features"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: BVzZfTc1
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+exp-counter:
+  title: "EXP Counter"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: lPSTdJm7
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+extra-mod-integrations:
+  title: "EMI Addon: Extra Mod Integrations"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: bpRHnWUb
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+fancy-toasts:
+  title: "Fancy Toasts | Better Advancements"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: eUziWqPC
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+farmers-delight:
+  title: "Farmer's Delight"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: R2OftAxM
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+ferrite-core:
+  title: FerriteCore
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: uXXizFIs
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+forgified-fabric-api:
+  title: "Forgified Fabric API"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: Aqlf1Shp
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+full-brightness-toggle:
+  title: "Full Brightness Toggle"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: aEK1KhsC
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+fzzy-config:
+  title: "Fzzy Config"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: hYykXjDp
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+gml:
+  title: "GroovyModLoader (GML)"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: zg2tT2Vu
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+horseman:
+  title: Horseman
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: qIv5FhAA
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+iceberg:
+  title: Iceberg
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: 5faXoLqX
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+immersive-aircraft:
+  title: "Immersive Aircraft"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: x3HZvrj6
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+indium:
+  title: Indium
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: Orvt0mRa
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+inventory-profiles-next:
+  title: "Inventory Profiles Next"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: O7RBXm3n
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+inventory-totem:
+  title: "Inventory Totem"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: server
+  risk_suggest: unknown
+  modrinth:
+    project_id: yQj7xqEM
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+inventoryhudplus:
+  title: InventoryHUD+
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: Kp2uclYl
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+iris:
+  title: "Iris Shaders"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: YL57xq9U
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+item-interactions-mod:
+  title: "Item interactions mod"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: MC6hfccQ
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+jade:
+  title: "Jade 🔍"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: nvQzSEkH
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+jei:
+  title: "Just Enough Items (JEI)"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: u6dRKJwZ
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+justenoughcharacters:
+  title: JustEnoughCharacters
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: I7k4B65h
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+kotlin-for-forge:
+  title: "Kotlin for Forge"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: ordsPcFz
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+legendary-tooltips:
+  title: "Legendary Tooltips"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: atHH8NyV
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+libipn:
+  title: libIPN
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: onSQdWhM
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+mob-plaques:
+  title: "Mob Plaques"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: 3b1CFIR5
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+modernfix:
+  title: ModernFix
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: nmDcB62a
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+moonlight:
+  title: "Moonlight Lib"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: twkfQtEc
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+not-enough-animations:
+  title: "Not Enough Animations"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: MPCX6s5C
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+not-interested:
+  title: "Not interested!"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: j7Ux0G0U
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+notes:
+  title: Notes
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: ko8Qabo1
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+pick-up-notifier:
+  title: "Pick Up Notifier"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: ZX66K16c
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+ping-wheel:
+  title: "Ping Wheel"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: QQXAdCzh
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+prickle:
+  title: Prickle
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: aaRl8GiW
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+prism-lib:
+  title: Prism
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: 1OE8wbN0
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+puzzles-lib:
+  title: "Puzzles Lib"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: QAGBst4M
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+reeses-sodium-options:
+  title: "Reese's Sodium Options"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: Bh37bMuy
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+screenshot-viewer:
+  title: "Screenshot Viewer"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: laNoi025
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+searchables:
+  title: Searchables
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: fuuu3xnx
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+signedit:
+  title: "Sign Edit"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: c7xDMxha
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+sodium:
+  title: Sodium
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: AANobbMI
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+sodium-extra:
+  title: "Sodium Extra"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: PtjYWJkn
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+sophisticated-backpacks:
+  title: "Sophisticated Backpacks"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: TyCTlI4b
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+sophisticated-core:
+  title: "Sophisticated Core"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: nmoqTijg
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+storage-drawers-create-compat:
+  title: "Create: Storage Drawers compat"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: c8JYP4m3
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+storagedrawers:
+  title: "Storage Drawers"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: guitPqEi
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+subtle-effects:
+  title: "Subtle Effects"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: 4q8UOK1d
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+supermartijn642s-config-lib:
+  title: "SuperMartijn642's Config Lib"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: LN9BxssP
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+supplementaries:
+  title: Supplementaries
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: fFEIiSDQ
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+tcdcommons:
+  title: "TCDCommons API"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: Eldc1g37
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+tips:
+  title: Tips
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: AMCbgyVw
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+toms-storage:
+  title: "Tom's Simple Storage Mod"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: XZNI4Cpy
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+trade-cycling:
+  title: "Trade Cycling"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: qpPoAL6m
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+trajectory-estimation:
+  title: "Trajectory Estimation"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: 7c13Zjk8
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+travelers-titles:
+  title: "Traveler's Titles"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: JtifUr64
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+visible-traders:
+  title: "Visible Traders"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: AhllI99f
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+visual-workbench:
+  title: "Visual Workbench"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: kfqD1JRw
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+visuality-forge:
+  title: "Visuality: Reforged"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: z13R7Et1
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+warfare-wings:
+  title: "Warfare Wings"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: OsWThBSc
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+waystones:
+  title: Waystones
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: LOpKHB2A
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+what-are-they-up-to:
+  title: "What Are They Up To (Watut)"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: AtB5mHky
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+wi-zoom:
+  title: "WI Zoom"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: o7DitHWP
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+world-preview:
+  title: "World Preview"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: client
+  risk_suggest: unknown
+  modrinth:
+    project_id: WtfpyicL
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+xaeros-maps-x-waystones:
+  title: "Xaero's Maps x Waystones"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: iv2jCzkP
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+xaeros-minimap:
+  title: "Xaero's Minimap"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: 1bokaNcj
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+xaeros-world-map:
+  title: "Xaero's World Map"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: NcUtCpym
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+yacl:
+  title: "YetAnotherConfigLib (YACL)"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: 1eAoo2KR
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"
+
+yungs-api:
+  title: "YUNG's API"
+  layer_suggest: unknown
+  group_suggest: unknown
+  side_suggest: both
+  risk_suggest: unknown
+  modrinth:
+    project_id: Ua7DFN59
+  categories:
+  note: "auto-suggested from Modrinth/local metadata; please review and curate"

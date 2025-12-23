@@ -1,0 +1,13 @@
+name = "Notes"
+filename = "Notes-1.21-3.0.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ko8Qabo1/versions/XxYelDNf/Notes-1.21-3.0.1-neoforge.jar"
+hash-format = "sha512"
+hash = "fbf83d48b44834ffe393e805e74bf5ba3f7935df3f2e379bac4a208d1b2c9150345c7dbfb5dccdba3b9c0b2e0d9aa82b1e4f7fbcc34c9399e814ea1a57905361"
+
+[update]
+[update.modrinth]
+mod-id = "ko8Qabo1"
+version = "XxYelDNf"

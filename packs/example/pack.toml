@@ -1,0 +1,13 @@
+name = "1.21.1-neoforge-v1"
+author = "strider_lee"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fa2d0f77ae21afb8d58858f134c49647ac8c85473a200f44bc7ee03751e29074"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"

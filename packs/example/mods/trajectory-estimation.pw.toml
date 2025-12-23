@@ -1,0 +1,13 @@
+name = "Trajectory Estimation"
+filename = "trajectory_estimation-neoforge-1.0.3.1-1.21.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7c13Zjk8/versions/k1GPyitu/trajectory_estimation-neoforge-1.0.3.1-1.21.x.jar"
+hash-format = "sha512"
+hash = "6c9f72aaa2fddd081dd8c7af4de1ef4adb7b7008aba2174a66ea22f2c87aa3a8b09a6f87710cba621056829754ae696946fbaa2aa89b700a730498e505ad809f"
+
+[update]
+[update.modrinth]
+mod-id = "7c13Zjk8"
+version = "k1GPyitu"

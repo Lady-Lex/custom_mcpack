@@ -1,0 +1,13 @@
+name = "Fancy Toasts | Better Advancements"
+filename = "fancytoasts-neoforge-1.21.1-1.4.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUziWqPC/versions/mRTW5IaJ/fancytoasts-neoforge-1.21.1-1.4.5.1.jar"
+hash-format = "sha512"
+hash = "00f6a33a8704fe814122be247fc4b143d640d62fce004de231af5497b93a36f0d97554d71fb1021eeec81bd1bd67fb63e1c25ab2304c604725d7437f0158a902"
+
+[update]
+[update.modrinth]
+mod-id = "eUziWqPC"
+version = "mRTW5IaJ"
