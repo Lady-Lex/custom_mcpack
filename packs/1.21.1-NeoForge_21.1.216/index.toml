@@ -466,6 +466,11 @@ hash = "5f0d17d236aad8f111b519c006988c8bf536ee569028c0a34690c4cc229b6403"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scrolling-reforged.pw.toml"
+hash = "b8b1e77eefea358de1ec37f0dcf494386fc1d138f78e2f044eedee610d6f7cfd"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
@@ -637,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/connected-texture.pw.toml"
-hash = "2b589076ef00f0a5b5f5971b05f214f216188fa68fb8cb20b85ab3d19e7ec679"
+hash = "6563e83bd02f41f34a9a2a9ad15d2bf40dba1e317e2690949b63cdb236fe6047"
 metafile = true
 
 [[files]]

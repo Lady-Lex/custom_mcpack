@@ -1,13 +1,11 @@
 name = "Connected Texture+"
 filename = "Connected Texture+ V5.2.zip"
 side = "both"
-pin = true
 
 [download]
-url = "https://edge.forgecdn.net/files/6917/873/Connected%20Texture%2B%20V5.2.zip"
 hash-format = "sha1"
 hash = "7a402e266bdc4712fa77889dbde991189751da08"
-mode = "url"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
