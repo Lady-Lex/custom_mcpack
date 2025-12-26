@@ -1,0 +1,13 @@
+name = "WorldgenFeatureFix"
+filename = "worldgenfeaturefix-neoforge-1.21-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/w2O2In9c/versions/DEPzHzvr/worldgenfeaturefix-neoforge-1.21-1.0.1.jar"
+hash-format = "sha512"
+hash = "81003b79fa0aa7c0ed606a6b1b74ffd01fda6a46bc1db96ca0854fda24893e6e4fd0b7cd3ff47ec5dc02b295daa4aa5e59e3bf9503744501634c4b1bbe9f21ea"
+
+[update]
+[update.modrinth]
+mod-id = "w2O2In9c"
+version = "DEPzHzvr"

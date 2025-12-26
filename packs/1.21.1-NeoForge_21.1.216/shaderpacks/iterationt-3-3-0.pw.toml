@@ -1,0 +1,13 @@
+name = "iterationT Shaders­­­­­­­­ㅤ"
+filename = "IterationRP-Shaders-v0.8.7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff4ed4f51d11710fcff2fa616d0beb4c66e9c923"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7253808
+project-id = 1316683

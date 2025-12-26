@@ -1,0 +1,13 @@
+name = "Enchantment Sort"
+filename = "enchsort-1.21.1-2.2.2-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17cf1c988ff6dc64ad5f5d58aad6bcc5badfd3da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7330548
+project-id = 735653

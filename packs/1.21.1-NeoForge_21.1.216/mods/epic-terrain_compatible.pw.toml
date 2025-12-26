@@ -1,0 +1,13 @@
+name = "Epic Terrain Compatible"
+filename = "epic-terrain_compatible-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sc69VpnK/versions/6WRQyW1o/epic-terrain_compatible-1.0.3.jar"
+hash-format = "sha512"
+hash = "12530fad3a4a1910ab10a714e6c3e882e954a26e7d891e8ec57d0703828875d623fdc5ca8a170969d395056e18382054f543005f752778de3c2fa0301b43060d"
+
+[update]
+[update.modrinth]
+mod-id = "sc69VpnK"
+version = "6WRQyW1o"

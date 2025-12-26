@@ -1,4 +1,4 @@
-name = "example-pack"
+name = "1.21.1-NeoForge_21.1.216"
 author = "strider_lee"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5fb91364eac9131d747f94238a744f100cf1c75a62b2537f999ba1598d6a6b31"
+hash = "ab476fd48e445a77f8af40e7d06ce60339a213a157f960f7a93d5ed07654dd47"
 
 [versions]
 minecraft = "1.21.1"

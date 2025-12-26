@@ -1,0 +1,13 @@
+name = "Warfare Wings"
+filename = "warfare_wings-1.1.2-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsWThBSc/versions/QhHXiGp2/warfare_wings-1.1.2-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "dbaa4a8d664191c7117fcf22f32164525de75da5ff2b2d4f297c9123d05395e4204033e67a87899c4cbcda51608c854c193c42d8e13b9d4efa9d74fc07875fa7"
+
+[update]
+[update.modrinth]
+mod-id = "OsWThBSc"
+version = "QhHXiGp2"

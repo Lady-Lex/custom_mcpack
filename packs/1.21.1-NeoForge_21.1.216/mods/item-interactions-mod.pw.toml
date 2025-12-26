@@ -1,0 +1,13 @@
+name = "Item interactions mod"
+filename = "item-interactions-mod-neoforge+1.21.1-2.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MC6hfccQ/versions/EJDiGrxp/item-interactions-mod-neoforge%2B1.21.1-2.1.4.jar"
+hash-format = "sha512"
+hash = "cdb9f458ff499d591ada7f83199522c65421ee85cbec967c4c06a000ceec132a9bf08f14cacbe030924f7ad40de579c7bcd2bb7ecdca38439e38860396f46cb4"
+
+[update]
+[update.modrinth]
+mod-id = "MC6hfccQ"
+version = "EJDiGrxp"

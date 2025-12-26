@@ -1,0 +1,13 @@
+name = "RoadWeaver"
+filename = "roadweaver-neoforge-2.0.9-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6jk8Pote/versions/Uq9f4QnT/roadweaver-neoforge-2.0.9-1.21.1.jar"
+hash-format = "sha512"
+hash = "66800767f0e69356fe3a4fefd43112e25e43e11d4e6802cab93306e06442701ab5409a599953da516838f61d44eed38db4e65aa9ae1cf3b91aa35a62c2efd7a8"
+
+[update]
+[update.modrinth]
+mod-id = "6jk8Pote"
+version = "Uq9f4QnT"

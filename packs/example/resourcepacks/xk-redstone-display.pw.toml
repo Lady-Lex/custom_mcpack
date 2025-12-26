@@ -1,0 +1,13 @@
+name = "XK Redstone Display"
+filename = "XeKr红显3.6forMC1.20.2~1.21.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4ueVo9s5/versions/HU2SjnfC/XeKr%E7%BA%A2%E6%98%BE3.6forMC1.20.2~1.21.5.zip"
+hash-format = "sha512"
+hash = "b780f3c47003421d94e351a611f849782d5a9eb6f71e075a971f15d8a6ae10ad6263c25b7a896f0c471d94037119f9c5fbd925adb89fd7de691a1ceda6fb293e"
+
+[update]
+[update.modrinth]
+mod-id = "4ueVo9s5"
+version = "HU2SjnfC"

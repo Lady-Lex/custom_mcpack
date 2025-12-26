@@ -1,0 +1,13 @@
+name = "EXP Counter"
+filename = "expcounter-1.21.1-neoforge-2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/TuBJQBPn/expcounter-1.21.1-neoforge-2.2.jar"
+hash-format = "sha512"
+hash = "6c27a4b17422aec0cec43f10c31bf3f47d941f6b129922a5547348881caedcbc0935d764b687d93c6962fef0617f0bc04cd291bb3115c2bbf307b49916d71852"
+
+[update]
+[update.modrinth]
+mod-id = "lPSTdJm7"
+version = "TuBJQBPn"
